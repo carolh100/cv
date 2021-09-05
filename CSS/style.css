@@ -1,0 +1,75 @@
+body {
+  background-color: #eaf6f6;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h2 {
+  color: powderblue;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.dancing {
+  font-family: 'Dancing Script', cursive;
+}
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pacifico {
+  font-family: 'Pacifico', cursive;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.parisienne {
+  font-family: 'Parisienne', cursive;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+}
+
+.top-container {
+  position: relative;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.img1 {
+  border-radius: 100%;
+  width: 20%;
+}
+
+.img2 {
+  border-radius: 100%;
+  width: 20%;
+}
+
+.img3 {
+  border-radius: 100%;
+  width: 20%;
+}
