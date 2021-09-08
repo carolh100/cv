@@ -1,19 +1,35 @@
 body {
   background-color: #eaf6f6;
   text-align: center;
-  margin: 0;
+  margin: 0
 }
 
 h1 {
-  color: #66bfbf;
+  margin: 2.6rem auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
 }
 
 h2 {
-  color: powderblue;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
 }
 
 .web {
   text-decoration: underline;
+}
+
+.programmer {
+  font-weight: normal;
 }
 
 .dancing {
@@ -49,6 +65,7 @@ h2 {
 
 .top-container {
   position: relative;
+  padding-top: 100px;
 }
 
 .middle-container {
@@ -61,15 +78,15 @@ h2 {
 
 .img1 {
   border-radius: 100%;
-  width: 20%;
+  width: 10%;
 }
 
 .img2 {
   border-radius: 100%;
-  width: 20%;
+  width: 10%;
 }
 
 .img3 {
   border-radius: 100%;
-  width: 20%;
+  width: 10%;
 }
